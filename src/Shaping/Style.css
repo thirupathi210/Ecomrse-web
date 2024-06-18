@@ -1,0 +1,17 @@
+.flex1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex{
+    display: flex;
+   
+}
+.shaping{
+    justify-content: space-between;
+    padding: 20px 30px;
+    background-color: aqua;
+}
+/* .product-items img{
+    width: 100px;
+    height: 100;
+} */
